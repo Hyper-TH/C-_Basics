@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\COMPSCI_PROJECTS\\c#\\FirstProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79686DE9-4A0A-49D7-8100-22BE7694E6CE}|MyFirstProject\\MyFirstProject.csproj|c:\\compsci_projects\\c#\\firstproject\\myfirstproject\\string_chars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79686DE9-4A0A-49D7-8100-22BE7694E6CE}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\string_chars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79686DE9-4A0A-49D7-8100-22BE7694E6CE}|MyFirstProject\\MyFirstProject.csproj|c:\\compsci_projects\\c#\\firstproject\\myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79686DE9-4A0A-49D7-8100-22BE7694E6CE}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C08AC68-6194-4506-A781-E0D9F19B151F}|Solution Items{2C08AC68-6194-4506-A781-E0D9F19B151F}|C:\\COMPSCI_PROJECTS\\c#\\FirstProject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2C08AC68-6194-4506-A781-E0D9F19B151F}|Solution Items{2C08AC68-6194-4506-A781-E0D9F19B151F}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{79686DE9-4A0A-49D7-8100-22BE7694E6CE}|MyFirstProject\\MyFirstProject.csproj|c:\\compsci_projects\\c#\\firstproject\\myfirstproject\\datatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79686DE9-4A0A-49D7-8100-22BE7694E6CE}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\datatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\COMPSCI_PROJECTS\\c#\\FirstProject\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\COMPSCI_PROJECTS\\c#\\FirstProject\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-02T21:45:46.733Z",
+              "DocumentIndex": 0,
+              "Title": "String_Chars.cs",
+              "DocumentMoniker": "C:\\COMPSCI_PROJECTS\\c#\\FirstProject\\MyFirstProject\\String_Chars.cs",
+              "RelativeDocumentMoniker": "MyFirstProject\\String_Chars.cs",
+              "ToolTip": "C:\\COMPSCI_PROJECTS\\c#\\FirstProject\\MyFirstProject\\String_Chars.cs",
+              "RelativeToolTip": "MyFirstProject\\String_Chars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:08:07.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "DataTypes.cs",
+              "DocumentMoniker": "C:\\COMPSCI_PROJECTS\\c#\\FirstProject\\MyFirstProject\\DataTypes.cs",
+              "RelativeDocumentMoniker": "MyFirstProject\\DataTypes.cs",
+              "ToolTip": "C:\\COMPSCI_PROJECTS\\c#\\FirstProject\\MyFirstProject\\DataTypes.cs",
+              "RelativeToolTip": "MyFirstProject\\DataTypes.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:54:20.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\COMPSCI_PROJECTS\\c#\\FirstProject\\MyFirstProject\\Program.cs",
               "RelativeDocumentMoniker": "MyFirstProject\\Program.cs",
               "ToolTip": "C:\\COMPSCI_PROJECTS\\c#\\FirstProject\\MyFirstProject\\Program.cs",
               "RelativeToolTip": "MyFirstProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T20:46:47.02Z",
               "EditorCaption": ""

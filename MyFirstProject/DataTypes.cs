@@ -46,6 +46,9 @@ namespace MyFirstProject
             Console.WriteLine(decimal.MaxValue);
             Console.WriteLine(decimal.MinValue);
 
+            // Assignment
+            age = 50;
+
             Console.ReadLine();
         }
     }
