@@ -16,6 +16,7 @@ namespace MyFirstProject
             DataTypes.ShowDataTypes();
             String_Chars.ShowStringChars();
             ConvertingStringToNumbers.ShowConversion();
+            BooleanDataType.ShowBool();
 
             Console.ReadLine();
         }
