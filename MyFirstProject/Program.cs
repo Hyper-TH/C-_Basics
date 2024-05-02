@@ -15,7 +15,9 @@ namespace MyFirstProject
 
             DataTypes.ShowDataTypes();
             String_Chars.ShowStringChars();
+            ConvertingStringToNumbers.ShowConversion();
 
+            Console.ReadLine();
         }
     }
 }

@@ -17,7 +17,6 @@ namespace MyFirstProject
 
             Console.WriteLine("Your name is " + name);
             Console.WriteLine("Here is the letter: " + letter);
-            Console.ReadLine();
         }
     }
 }
