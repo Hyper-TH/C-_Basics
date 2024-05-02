@@ -14,7 +14,7 @@ namespace MyFirstProject
             // System.Console.WriteLine("Hello World");
 
             DataTypes.ShowDataTypes();
-
+            String_Chars.ShowStringChars();
 
         }
     }

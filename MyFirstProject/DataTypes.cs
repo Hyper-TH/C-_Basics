@@ -49,7 +49,6 @@ namespace MyFirstProject
             // Assignment
             age = 50;
 
-            Console.ReadLine();
         }
     }
 }
