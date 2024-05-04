@@ -18,6 +18,7 @@ namespace MyFirstProject
             ConvertingStringToNumbers.ShowConversion();
             BooleanDataType.ShowBool();
             Operators.ShowOperators();
+            Remainder.ShowRemainder();
 
             Console.ReadLine();
         }
