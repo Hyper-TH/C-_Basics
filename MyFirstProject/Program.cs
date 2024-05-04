@@ -17,6 +17,7 @@ namespace MyFirstProject
             String_Chars.ShowStringChars();
             ConvertingStringToNumbers.ShowConversion();
             BooleanDataType.ShowBool();
+            Operators.ShowOperators();
 
             Console.ReadLine();
         }
