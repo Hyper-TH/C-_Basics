@@ -21,6 +21,7 @@ namespace MyFirstProject
             Remainder.ShowRemainder();
             Var.ShowVar();
             Const.ShowConst();
+            Ex_1_StoreUserData.ShowEx1();
 
             Console.ReadLine();
         }

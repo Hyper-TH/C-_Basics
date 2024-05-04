@@ -47,6 +47,7 @@
     <Compile Include="Const.cs" />
     <Compile Include="ConvertingStringToNumbers.cs" />
     <Compile Include="DataTypes.cs" />
+    <Compile Include="Ex_1_StoreUserData.cs" />
     <Compile Include="Operators.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
