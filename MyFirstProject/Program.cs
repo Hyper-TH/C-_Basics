@@ -19,6 +19,7 @@ namespace MyFirstProject
             BooleanDataType.ShowBool();
             Operators.ShowOperators();
             Remainder.ShowRemainder();
+            Var.ShowVar();
 
             Console.ReadLine();
         }
