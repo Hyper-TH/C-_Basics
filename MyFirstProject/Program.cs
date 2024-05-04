@@ -13,15 +13,16 @@ namespace MyFirstProject
             Console.WriteLine("Hello World");
             // System.Console.WriteLine("Hello World");
 
-            DataTypes.ShowDataTypes();
-            String_Chars.ShowStringChars();
-            ConvertingStringToNumbers.ShowConversion();
-            BooleanDataType.ShowBool();
-            Operators.ShowOperators();
-            Remainder.ShowRemainder();
-            Var.ShowVar();
-            Const.ShowConst();
-            Ex_1_StoreUserData.ShowEx1();
+            // DataTypes.ShowDataTypes();
+            // String_Chars.ShowStringChars();
+            // ConvertingStringToNumbers.ShowConversion();
+            // BooleanDataType.ShowBool();
+            // Operators.ShowOperators();
+            // Remainder.ShowRemainder();
+            //  Var.ShowVar();
+            // Const.ShowConst();
+            // Ex_1_StoreUserData.ShowEx1();
+            IsOddEven.ShowIsOddEven();
 
             Console.ReadLine();
         }
