@@ -20,6 +20,7 @@ namespace MyFirstProject
             Operators.ShowOperators();
             Remainder.ShowRemainder();
             Var.ShowVar();
+            Const.ShowConst();
 
             Console.ReadLine();
         }
