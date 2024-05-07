@@ -22,7 +22,8 @@ namespace MyFirstProject
             //  Var.ShowVar();
             // Const.ShowConst();
             // Ex_1_StoreUserData.ShowEx1();
-            IsOddEven.ShowIsOddEven();
+            // IsOddEven.ShowIsOddEven();
+            InOut.ShowInOut();
 
             Console.ReadLine();
         }
