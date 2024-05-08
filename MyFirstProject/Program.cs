@@ -19,11 +19,12 @@ namespace MyFirstProject
             // BooleanDataType.ShowBool();
             // Operators.ShowOperators();
             // Remainder.ShowRemainder();
-            //  Var.ShowVar();
+            // Var.ShowVar();
             // Const.ShowConst();
             // Ex_1_StoreUserData.ShowEx1();
             // IsOddEven.ShowIsOddEven();
-            InOut.ShowInOut();
+            // InOut.ShowInOut();
+            IfStatement.ShowStatements();
 
             Console.ReadLine();
         }
