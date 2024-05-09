@@ -59,6 +59,7 @@
     <Compile Include="String_Chars.cs" />
     <Compile Include="Switch.cs" />
     <Compile Include="Var.cs" />
+    <Compile Include="WhileLoops.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
