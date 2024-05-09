@@ -53,6 +53,7 @@
     <Compile Include="IfStatements.cs" />
     <Compile Include="InOut.cs" />
     <Compile Include="IsOddEven.cs" />
+    <Compile Include="NumericFormatting.cs" />
     <Compile Include="Operators.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
