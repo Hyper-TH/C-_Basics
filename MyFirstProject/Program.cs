@@ -24,7 +24,8 @@ namespace MyFirstProject
             // Ex_1_StoreUserData.ShowEx1();
             // IsOddEven.ShowIsOddEven();
             // InOut.ShowInOut();
-            IfStatement.ShowStatements();
+            // IfStatement.ShowStatements();
+            Switch.ShowSwitch();
 
             Console.ReadLine();
         }
