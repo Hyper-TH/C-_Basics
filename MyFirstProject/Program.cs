@@ -25,7 +25,8 @@ namespace MyFirstProject
             // IsOddEven.ShowIsOddEven();
             // InOut.ShowInOut();
             // IfStatement.ShowStatements();
-            Switch.ShowSwitch();
+            // Switch.ShowSwitch();
+            ForLoops.ShowForLoops();
 
             Console.ReadLine();
         }
