@@ -35,6 +35,9 @@ namespace MyFirstProject
 
             // Actual Lesson
             int i = 0;
+            int j = 10;
+            
+            // While loops will check first
             while (i < 10) 
             {
                 i++;
@@ -42,6 +45,14 @@ namespace MyFirstProject
 
                 // i++
             }
+
+            // Do While will always happen once (i.e., check condition at the end
+            do
+            {
+                Console.WriteLine(i);
+            } while (j != 10);
+
+            Console.WriteLine("End Program");
         }
     }
 }
