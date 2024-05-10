@@ -31,7 +31,8 @@ namespace MyFirstProject
             // ConditionalOperators.ShowConditionalOperators();
             // NumericFormatting.ShowNumericFormatting();
             // Try_Parse.ShowTryParse();
-            TimesTable.ShowTimesTable();
+            // TimesTable.ShowTimesTable();
+            FizzBuzz.ShowFizzBuzz();
 
             Console.ReadLine();
         }

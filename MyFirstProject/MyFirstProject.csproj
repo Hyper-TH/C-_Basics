@@ -49,6 +49,7 @@
     <Compile Include="ConvertingStringToNumbers.cs" />
     <Compile Include="DataTypes.cs" />
     <Compile Include="Ex_1_StoreUserData.cs" />
+    <Compile Include="FizzBuzz.cs" />
     <Compile Include="ForLoops.cs" />
     <Compile Include="IfStatements.cs" />
     <Compile Include="InOut.cs" />
