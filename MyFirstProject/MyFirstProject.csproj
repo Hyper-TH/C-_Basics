@@ -64,6 +64,7 @@
     <Compile Include="TimesTable.cs" />
     <Compile Include="Try_Parse.cs" />
     <Compile Include="Var.cs" />
+    <Compile Include="VerbatimStringLiteral.cs" />
     <Compile Include="WhileLoops.cs" />
   </ItemGroup>
   <ItemGroup>
