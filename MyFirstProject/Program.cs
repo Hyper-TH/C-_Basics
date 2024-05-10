@@ -29,7 +29,8 @@ namespace MyFirstProject
             // ForLoops.ShowForLoops();
             // WhileLoops.ShowWhileLoops();
             // ConditionalOperators.ShowConditionalOperators();
-            NumericFormatting.ShowNumericFormatting();
+            // NumericFormatting.ShowNumericFormatting();
+            Try_Parse.ShowTryParse();
 
             Console.ReadLine();
         }
