@@ -30,7 +30,8 @@ namespace MyFirstProject
             // WhileLoops.ShowWhileLoops();
             // ConditionalOperators.ShowConditionalOperators();
             // NumericFormatting.ShowNumericFormatting();
-            Try_Parse.ShowTryParse();
+            // Try_Parse.ShowTryParse();
+            TimesTable.ShowTimesTable();
 
             Console.ReadLine();
         }

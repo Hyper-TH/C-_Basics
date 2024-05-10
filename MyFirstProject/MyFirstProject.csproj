@@ -60,6 +60,7 @@
     <Compile Include="Remainder.cs" />
     <Compile Include="String_Chars.cs" />
     <Compile Include="Switch.cs" />
+    <Compile Include="TimesTable.cs" />
     <Compile Include="Try_Parse.cs" />
     <Compile Include="Var.cs" />
     <Compile Include="WhileLoops.cs" />
