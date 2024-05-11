@@ -59,7 +59,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Remainder.cs" />
+    <Compile Include="StringConcatenation.cs" />
     <Compile Include="StringFormatting.cs" />
+    <Compile Include="StringInterpolation.cs" />
     <Compile Include="String_Chars.cs" />
     <Compile Include="Switch.cs" />
     <Compile Include="TimesTable.cs" />

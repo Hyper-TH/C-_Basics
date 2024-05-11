@@ -34,7 +34,9 @@ namespace MyFirstProject
             // TimesTable.ShowTimesTable();
             // FizzBuzz.ShowFizzBuzz();
             // VerbatimStringLiteral.ShowVerbatimStringLiteral();
-            StringFormatting.ShowStringFormatting();
+            // StringFormatting.ShowStringFormatting();
+            // StringInterpolation.ShowStringInterpolation();
+            StringConcatenation.ShowStringConcatenation();
 
             Console.ReadLine();
         }
