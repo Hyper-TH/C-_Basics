@@ -36,7 +36,9 @@ namespace MyFirstProject
             // VerbatimStringLiteral.ShowVerbatimStringLiteral();
             // StringFormatting.ShowStringFormatting();
             // StringInterpolation.ShowStringInterpolation();
-            StringConcatenation.ShowStringConcatenation();
+            // StringConcatenation.ShowStringConcatenation();
+            // EmptyString.ShowEmptyString();
+            StringEqualsFunction.ShowStringEquals();
 
             Console.ReadLine();
         }
