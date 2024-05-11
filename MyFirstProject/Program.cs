@@ -33,7 +33,8 @@ namespace MyFirstProject
             // Try_Parse.ShowTryParse();
             // TimesTable.ShowTimesTable();
             // FizzBuzz.ShowFizzBuzz();
-            VerbatimStringLiteral.ShowVerbatimStringLiteral();
+            // VerbatimStringLiteral.ShowVerbatimStringLiteral();
+            StringFormatting.ShowStringFormatting();
 
             Console.ReadLine();
         }
