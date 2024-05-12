@@ -39,7 +39,8 @@ namespace MyFirstProject
             // StringConcatenation.ShowStringConcatenation();
             // EmptyString.ShowEmptyString();
             // StringEqualsFunction.ShowStringEquals();
-            StringIteration.ShowStringIteration(); 
+            // StringIteration.ShowStringIteration(); 
+            IsStringNullOrEmpty.ShowIsNullOrEmpty();
 
             Console.ReadLine();
         }
