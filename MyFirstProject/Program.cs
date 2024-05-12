@@ -40,7 +40,8 @@ namespace MyFirstProject
             // EmptyString.ShowEmptyString();
             // StringEqualsFunction.ShowStringEquals();
             // StringIteration.ShowStringIteration(); 
-            IsStringNullOrEmpty.ShowIsNullOrEmpty();
+            // IsStringNullOrEmpty.ShowIsNullOrEmpty();
+            ReverseStrings.ShowReverseString();
 
             Console.ReadLine();
         }
