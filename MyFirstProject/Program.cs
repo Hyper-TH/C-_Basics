@@ -38,7 +38,8 @@ namespace MyFirstProject
             // StringInterpolation.ShowStringInterpolation();
             // StringConcatenation.ShowStringConcatenation();
             // EmptyString.ShowEmptyString();
-            StringEqualsFunction.ShowStringEquals();
+            // StringEqualsFunction.ShowStringEquals();
+            StringIteration.ShowStringIteration(); 
 
             Console.ReadLine();
         }

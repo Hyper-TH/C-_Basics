@@ -64,6 +64,7 @@
     <Compile Include="StringEqualsFunction.cs" />
     <Compile Include="StringFormatting.cs" />
     <Compile Include="StringInterpolation.cs" />
+    <Compile Include="StringIteration.cs" />
     <Compile Include="String_Chars.cs" />
     <Compile Include="Switch.cs" />
     <Compile Include="TimesTable.cs" />
