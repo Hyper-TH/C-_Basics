@@ -41,7 +41,8 @@ namespace MyFirstProject
             // StringEqualsFunction.ShowStringEquals();
             // StringIteration.ShowStringIteration(); 
             // IsStringNullOrEmpty.ShowIsNullOrEmpty();
-            ReverseStrings.ShowReverseString();
+            // ReverseStrings.ShowReverseString();
+            PasswordChecker.ShowPasswordChecker();
 
             Console.ReadLine();
         }
